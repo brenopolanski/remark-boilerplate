@@ -2073,8 +2073,8 @@ imagemin@^5.3.1:
     replace-ext "^1.0.0"
 
 immutable@^3:
-  version "3.8.2"
-  resolved "https://registry.yarnpkg.com/immutable/-/immutable-3.8.2.tgz#c2439951455bb39913daf281376f1530e104adf3"
+  version "3.8.3"
+  resolved "https://registry.yarnpkg.com/immutable/-/immutable-3.8.3.tgz#0a8d2494a94d4b2d4f0e99986e74dd25d1e9a859"
 
 indent-string@^2.1.0:
   version "2.1.0"
